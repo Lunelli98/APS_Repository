@@ -11,3 +11,6 @@ Documents for the final project                  |  Documentos para o projeto fi
 
 1_ Partial delivery #1                           |  1_ Entrega parcial 1
 2_ Partial delivery #2                           |  2_ Entrega parcial 2
+
+
+***Read it in code for better view               | ***Leia em codigo para facilitar leitura
