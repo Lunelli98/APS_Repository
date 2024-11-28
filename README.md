@@ -1,8 +1,8 @@
-# APS_Repository
+# APS_Repositorio
 
           English                                |  Brazilian Portuguese
           
-Repository for my APS class                      |  Repositorio para minha aula de APS
+Repository for my PAS class                      |  Repositorio para minha aula de APS
 
 Created on 11/28th for an in-class activity.     |  Criado em 28/11 para uma atividade em sala.
 I will use it for the final project.             |  Usarei o repositorio para o projeto final.
